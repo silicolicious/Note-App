@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "293954507139",
+    "project_id": "note-app-888bf",
+    "storage_bucket": "note-app-888bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293954507139:android:6d91d48629b4fec5d8e6b6",
+        "android_client_info": {
+          "package_name": "com.silicolicious.note_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293954507139-k22r6nvnuo90hvtqj7l7tn0nane1630u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_UoM_5kI4qYtYO1k0dXRLstUuSPTiozU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293954507139-k22r6nvnuo90hvtqj7l7tn0nane1630u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
