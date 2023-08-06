@@ -1,6 +1,5 @@
-# note_app
+# Note Taking Application
 
-A note taking flutter application.  
 A personal project for learning flutter.
-Made using flutter and firebase.
+Made using flutter, and firebase for authentication and storage.
 
